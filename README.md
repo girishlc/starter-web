@@ -10,3 +10,8 @@ Sample website with plenty of files for demos
 ### Copyriht
 
 2024 Git.Training
+
+
+## How to contribute
+
+Please fork this repository and then issue Pull Request for review.
